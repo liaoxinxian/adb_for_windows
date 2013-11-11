@@ -1,0 +1,11 @@
+adbforwindow/Debug/
+adbforwindow/Release/
+adbforwindow/obj/
+adbforwindow/adb.ncb
+adbforwindow/adb.suo
+adbforwindow/adb.vcproj.2013-0410-1004.Administrator.user
+adbforwindow/adb.sln
+adbforwindow/*.sln
+adbforwindow/*.mdb
+adbforwindow/*.ldb
+adbforwindow/*.config
